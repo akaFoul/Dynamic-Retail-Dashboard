@@ -9,7 +9,15 @@ The dashboard includes key performance indicators (KPls) that track important me
 ## Sample Data Tables
 
 ### **Order Table**
-Order ID	Returned	Order Date	Ship Date	Ship Mode	Customer Name	Segment	Country	Market	Sales	Profit	Discount
-CA-2012-124891	No	31-07-2020	31-07-2020	Same Day	Rick Hansen	Consumer	United States	US	2309.65	762.18	0
-IN-2013-77878	Yes	05-02-2021	07-02-2021	Second Class	Justin Ritter	Corporate	Australia	APAC	3709.40	-288.77	0.1
-IN-2013-71249	No	17-10-2021	18-10-2021	First Class	Craig Reiter	Consumer	Australia	APAC	5175.17	919.97	0.1
+| Category        | Sub-Category | Product Name                                                                  | Sales    | Quantity | Discount | Profit    | Shipping Cost | Order Priority | Customer Type |
+|-----------------|--------------|-------------------------------------------------------------------------------|----------|----------|----------|-----------|---------------|----------------|---------------|
+| Technology      | Accessories  | Plantronics CS510 - Over-the-Head monaural Wireless Headset System            | 2309.65  | 7        | 0        | 762.1845  | 933.57        | Critical       | Good          |
+| Furniture       | Chairs       | Novimex Executive Leather Armchair, Black                                     | 3709.395 | 9        | 0.1      | -288.765  | 923.63        | Critical       | Bad           |
+| Technology      | Phones       | Nokia Smart Phone, with Caller ID                                             | 5175.171 | 9        | 0.1      | 919.971   | 915.49        | Medium         | Good          |
+| Technology      | Phones       | Motorola Smart Phone, Cordless                                                | 2892.51  | 5        | 0.1      | -96.54    | 910.16        | Medium         | Bad           |
+| Technology      | Copiers      | Sharp Wireless Fax, High-Speed                                                | 2832.96  | 8        | 0        | 311.52    | 903.04        | Critical       | Good          |
+| Technology      | Phones       | Samsung Smart Phone, with Caller ID                                           | 2862.675 | 5        | 0.1      | 763.275   | 897.35        | Critical       | Good          |
+| Furniture       | Chairs       | Novimex Executive Leather Armchair, Adjustable                                | 1822.08  | 4        | 0        | 564.84    | 894.77        | Critical       | Good          |
+| Furniture       | Tables       | Chromcraft Conference Table, Fully Assembled                                  | 5244.84  | 6        | 0        | 996.48    | 878.38        | High           | Good          |
+| Office Supplies | Binders      | Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind   | 5083.96  | 5        | 0.2      | 1906.485  | 867.69        | Low            | Good          |
+
