@@ -1,5 +1,3 @@
-<img width="1771" height="241" alt="image" src="https://github.com/user-attachments/assets/c4df0e14-67a7-4f11-bbbc-825a40135dca" /># Dynamic-Retail-Dashboard
-
 ## Overview
 
 This project involves the creation of a dynamic retail dashboard using Microsoft Excel, designed to visualize and analyze retail sales data across various dimensions. The dashboard connects to three main data tables-Orders, Returns, and People-and helps businesses gain insights into key sales performance metrics. This project is ideal for businesses looking to enhance their decision-making processes by analyzing data through dynamic visualizations and KPIs.
